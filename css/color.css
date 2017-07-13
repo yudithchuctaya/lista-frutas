@@ -1,4 +1,5 @@
-* {
+
+ {
   font-family: sans-serif;
   font-weight: lighter;
 }
@@ -6,6 +7,8 @@ body {
   background-color: #1BCBC8;
   color: Grey;
 }
+
+
 button {
   width: 250px;
   height: 50px;
