@@ -15,3 +15,4 @@ Alt-H1
 
 
 
+# mostrar-asientos
