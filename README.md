@@ -5,9 +5,10 @@ Alt-H1
 ===================================
 
 ## Mi HTML
-![Alt-Text](assets/imghtml.jpg)
+![Alt-Text](IMG/imghtml.png)
 
-## MI JAVASCRIPT
+## Mi TRABAJO
+![Alt-text](IMG/img.png)
 
  
 
